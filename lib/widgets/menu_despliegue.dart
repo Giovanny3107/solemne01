@@ -109,7 +109,7 @@ class MenuDespliegue extends StatelessWidget {
 
                                 ListTile(
                                   title: const Text(
-                                    'cuentas Públicas',
+                                    'Cuentas Públicas',
                                     style: TextStyle(
                                       decoration: TextDecoration.underline,
                                     ),
